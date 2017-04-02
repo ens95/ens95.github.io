@@ -1,0 +1,17 @@
+img{
+	max-width: 100%;
+}
+.h6, h6 {
+    font-size: 3rem;
+}
+body {
+	background-image: url("../img/gg.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Lobster', cursive;
+}
+h1 {
+	font-family: 'Bad Script', cursive;
+	font-size: 200px;
+	color: #f3edd2;
+}
